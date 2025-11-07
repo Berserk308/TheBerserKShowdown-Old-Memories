@@ -1,7 +1,9 @@
 ################################################################################
 #  TBKS 2 – THE BERSERK SHOWDOWN
 OFFICIAL README
-opyright © 2025 Berserk308 (Edoardo Minuti)
+
+Copyright © 2025 Berserk308 (Edoardo Minuti)
+
 All Rights Reserved
 ################################################################################
 
@@ -12,15 +14,22 @@ All Rights Reserved
 
 ──────────────
 Full Title: TBKS 2 – The BerserK Showdown
+
 Lead Developer & Project Owner: Berserk308 (Edoardo Minuti)
+
 Base Engine: Psych / OS Engine (MIT License)
+
 Project Type: Fan-made mod of Friday Night Funkin’
+
 Distribution: Free – Non-Commercial
+
 Official Website: https://www.berserk308.com
 
+
 Description:
+
 TBKS 2 is an artistic and narrative expansion of the Berserk Fire universe,
-inspired by the world of *Friday Night Funkin’*.  
+inspired by the world of *Friday Night Funkin’*.
 It combines original music, storytelling and cosmic visual design
 while maintaining full respect toward the original FNF creators.
 
