@@ -19,3 +19,80 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+################################################################################
+#  LICENSE – THE BERSERK SHOWDOWN: OLD MEMORIES
+#  Copyright © 2025 Berserk308 (Edoardo Minuti)
+################################################################################
+
+
+───────────────────────────────────────────────────────────────────────────────
+▌ BASE LICENSE – OS ENGINE (MIT)
+───────────────────────────────────────────────────────────────────────────────
+MIT License
+
+Copyright (c) 2021 ShadowMario & RiverOaken
+Modifications © 2025 Berserk308 (Edoardo Minuti)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+──────────────
+
+▌ ADDITIONAL TERMS – TBKS 2 CONTENT DIRECTORY
+
+──────────────
+
+• `/mods` – Contains **TBKS 2 – The BerserK Showdown** content, including:
+  music (FLP, WAV, MP3), voice lines, dialogue scripts, story data, artwork,
+  visual effects, and configuration files.  
+  All of these assets are © 2025 **Berserk308 (Edoardo Minuti)** and are
+  distributed for **free, non-commercial use only** within this launcher.
+
+  Redistribution, resale, extraction, or reuse of any `/mods` assets outside
+  this package is strictly prohibited without **written authorization**
+  from the owner.
+
+**This separation ensures that the MIT License applies only to the OS Engine
+codebase and not to the creative content contained in `/mods`.**
+
+
+──────────────
+
+▌ LEGAL NOTICE & CONTACT
+
+──────────────
+All original music, artwork, story and configuration files remain exclusive
+intellectual property of Berserk308 (Edoardo Minuti).  
+Any attempt to distribute, sell, or modify these materials beyond the allowed
+scope may result in takedown or legal action under copyright law.
+
+For permissions, licensing or collaboration inquiries, contact:
+📧 edoardominuti2005@yahoo.com
+
+
+──────────────
+
+▌ END OF LICENSE
+
+──────────────
+
+
+This file defines the full legal scope for The BerserK Showdown: Old Memories.
+Keep it included in every public distribution of the game package.
