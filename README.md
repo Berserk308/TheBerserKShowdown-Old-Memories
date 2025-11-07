@@ -27,6 +27,7 @@ Distribution: Free – Non-Commercial
 Official Website: https://www.berserk308.com
 
 
+──────────────
 
 Description:
 
@@ -100,14 +101,19 @@ respect for every contributor’s original work.
 ──────────────
 
 **Permitted:**
-• Play and share gameplay, images or clips for non-commercial purposes.  
+
+• Play and share gameplay, images or clips for non-commercial purposes.
+
 • Create fanart, remixes or videos that clearly credit:
   “Berserk308 – TBKS 2 (The BerserK Showdown: Old Memories)”.
 
 
 **Not permitted:**
+
 • Publishing modified or repacked versions of the game without approval.
+
 • Reusing original music, artwork or dialogues in external projects.
+
 • Selling, redistributing or exposing source files (FLP, PSD, scripts, etc.)
   belonging to this project.
 
@@ -121,6 +127,7 @@ For official collaborations or licensing inquiries:
 ▌ CREDITS  &  SOURCES
 
 ──────────────
+
 ► **Friday Night Funkin’**  
    © ninjamuffin99, PhantomArcade, KawaiSprite, evilsk8r  
    (Free game available on itch.io and Newgrounds)
