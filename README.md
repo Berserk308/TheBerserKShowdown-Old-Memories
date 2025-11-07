@@ -1,14 +1,16 @@
 ################################################################################
 #  TBKS 2 – THE BERSERK SHOWDOWN
-#  OFFICIAL README
-#  Copyright © 2025 Berserk308 (Edoardo Minuti)
-#  All Rights Reserved
+OFFICIAL README
+opyright © 2025 Berserk308 (Edoardo Minuti)
+All Rights Reserved
 ################################################################################
 
 
-─────────────────────────────────────────────────────────────────────────
+──────────────
+
 ▌ MAIN INFO
-─────────────────────────────────────────────────────────────────────────
+
+──────────────
 Full Title: TBKS 2 – The BerserK Showdown
 Lead Developer & Project Owner: Berserk308 (Edoardo Minuti)
 Base Engine: Psych / OS Engine (MIT License)
