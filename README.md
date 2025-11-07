@@ -103,7 +103,7 @@ For official collaborations or licensing inquiries:
 ► **TBKS 2 – The BerserK Showdown**  
    © Berserk308 (Edoardo Minuti) – All Rights Reserved  
    Website: https://www.berserk308.com  
-   Contact: berserk308official@gmail.com  
+   Contact: edoardominuti2005@yahoo.com
 
 All original music, visuals and configuration files were created
 by Berserk308 and selected collaborators under his supervision.  
